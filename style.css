@@ -29,7 +29,13 @@ body {
       width: 1024px; 
       margin: 0 auto;
     }
-    .headname 
+    .headname1 
+        {color: rgb(245, 220, 192);
+        font-size: 30px;
+        
+        
+        }
+    .headname2 
         {color: rgb(245, 220, 192);
         
         
