@@ -46,3 +46,7 @@ body {
         padding: auto;
     
     }
+    .maps{
+      border: 1px solid;color: rgb(252, 221, 242);
+      height: 300px;
+    }
