@@ -9,7 +9,7 @@ body {
   } 
   header
     {
-      background-color: rgb(255, 211, 182);
+      background-color: rgb(255, 226, 219);
       color: rgb(243, 124, 124);
       height: 145px;
       padding: 25px;
@@ -31,13 +31,13 @@ body {
       margin: 0 auto;
     }
     .headname1 
-        {color: rgb(245, 145, 145);
+        {color: rgb(255, 161, 73);
         font-size: 30px;
         
         
         }
     .headname2 
-        {color: rgb(245, 145, 145);
+        {color: rgb(255, 242, 130);
           font-size: 20px;
         }
     .graphic{
