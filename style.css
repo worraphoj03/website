@@ -24,6 +24,10 @@ body {
         padding: 10px;
         text-align: center;
     }
+    a {
+      color:black;
+      text-decoration: none;
+    }
         
     .mainpage 
     {
@@ -50,7 +54,7 @@ body {
       border: 1px solid;color: rgb(252, 221, 242);
       height: 300px;
     }
-    .top10{
+    .Top10{
       background-color: rgb(226, 255, 224);
       padding: 10px;
     }
